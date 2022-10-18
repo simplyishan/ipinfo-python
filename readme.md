@@ -1,4 +1,5 @@
-`heyoo kids again seeing you in a new project idk
+```
+< heyoo kids again seeing you in a new project idk >
 
 used packages - os , requests , colorma 
 
@@ -12,7 +13,8 @@ its done!
 
 
 contact me?
-insta/_simplyishan
-gmail/ishannnhere@gmail.com
+[insta](https://www.instagram.com/_simplyishan/)
+[gmail](ishannnhere@gmail.com)
 
-skidded? idk `
+skidded? idk 
+```
